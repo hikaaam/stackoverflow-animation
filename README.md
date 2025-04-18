@@ -18,3 +18,7 @@
 ## 📝 Notes
 
 - [`react-native-reanimated` docs](https://docs.swmansion.com/react-native-reanimated/)
+
+---
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/aX5ZzbIbRIs)](https://youtu.be/aX5ZzbIbRIs)
